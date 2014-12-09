@@ -1,8 +1,8 @@
 ---
-Name: goediy
-Cartridge-Short-Name: GOEDIY
-Display-Name: GOE Do-It-Yourself 0.1
-Description: The Do-It-Yourself (DIY) application type is a blank slate for trying
+Name: diy
+Cartridge-Short-Name: DIY
+Display-Name: Do-It-Yourself 0.1
+Description: XXX The Do-It-Yourself (DIY) application type is a blank slate for trying
   unsupported languages, frameworks, and middleware on OpenShift. See the community
   site for examples of bringing your favorite framework to OpenShift.
 Version: '0.1'
