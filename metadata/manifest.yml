@@ -1,15 +1,15 @@
 ---
-Name: diy
-Cartridge-Short-Name: DIY
-Display-Name: Do-It-Yourself 0.1
+Name: goediy
+Cartridge-Short-Name: GOEDIY
+Display-Name: GOE Do-It-Yourself 0.1
 Description: The Do-It-Yourself (DIY) application type is a blank slate for trying
   unsupported languages, frameworks, and middleware on OpenShift. See the community
   site for examples of bringing your favorite framework to OpenShift.
 Version: '0.1'
 License: ASL 2.0
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
-Cartridge-Version: 0.0.13
-Source-Url: https://github.com/openshift-cartridges/openshift-diy-cartridge.git
+Cartridge-Version: 0.0.1
+Source-Url: https://krablak@bitbucket.org/goeteam/goe-os-catridge.git
 Compatible-Versions:
 - 0.0.10
 - 0.0.11
