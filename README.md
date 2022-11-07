@@ -1,2 +1,2 @@
-# GOE OpenShift DIY Cartridge
+# GOE OpenShift DIY Cartridge [REPO BACKUP] 
 This cartridge is extended version of [OpenShift DIY Cartridge](https://github.com/openshift-cartridges/openshift-diy-cartridge) modified to fit GOE requirements.
